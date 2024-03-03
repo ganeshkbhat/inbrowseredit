@@ -16,7 +16,7 @@
 
 'use strict';
 
-function EE() {
+function BE() {
   function makeEditable() {
     document.designMode = 'on';
   }
@@ -32,5 +32,5 @@ function EE() {
 }
 
 
-EE().makeEditable()
-EE().disableEditing()
+BE().makeEditable()
+BE().disableEditing()

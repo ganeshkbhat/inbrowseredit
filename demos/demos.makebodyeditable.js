@@ -16,7 +16,7 @@
 
 'use strict';
 
-function EE() {
+function BE() {
   function makeBodyEditable() {
     document.body.contentEditable = true;
   }
@@ -31,5 +31,5 @@ function EE() {
   }  
 }
 
-EE().makeBodyEditable()
-EE().disableBodyEditing()
+BE().makeBodyEditable()
+BE().disableBodyEditing()

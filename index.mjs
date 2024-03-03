@@ -17,7 +17,7 @@
 'use strict';
 
 
-function EE() {
+function BE() {
 
   /**
    *
