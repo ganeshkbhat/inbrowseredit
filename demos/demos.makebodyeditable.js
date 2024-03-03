@@ -17,12 +17,12 @@
 'use strict';
 
 function EE() {
-  function makeEditable() {
-    document.designMode = 'on';
+  function makeBodyEditable() {
+    document.body.contentEditable = true;
   }
 
-  function disableEditing() {
-    document.designMode = 'off';
+  function disableBodyEditing() {
+    document.body.contentEditable = true;
   }
 
   return {

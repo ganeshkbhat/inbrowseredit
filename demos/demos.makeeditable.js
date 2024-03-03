@@ -15,3 +15,18 @@
 /* eslint no-console: 0 */
 
 'use strict';
+
+function EE() {
+  function makeEditable() {
+    document.designMode = 'on';
+  }
+
+  function disableEditing() {
+    document.designMode = 'off';
+  }
+
+  return {
+    makeEditable,
+    disableEditing
+  }  
+}
