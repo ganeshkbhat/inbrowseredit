@@ -26,7 +26,10 @@ function EE() {
   }
 
   return {
-    makeEditable,
-    disableEditing
+    makeBodyEditable,
+    disableBodyEditing
   }  
 }
+
+EE().makeBodyEditable()
+EE().disableBodyEditing()

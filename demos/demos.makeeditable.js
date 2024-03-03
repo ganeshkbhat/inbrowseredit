@@ -30,3 +30,7 @@ function EE() {
     disableEditing
   }  
 }
+
+
+EE().makeEditable()
+EE().disableEditing()
