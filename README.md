@@ -1,6 +1,9 @@
 # inbrowseredit
 make document editable in browser using inbrowseredit
 
+Demos can be found in [demos](https://github.com/ganeshkbhat/inbrowseredit/tree/main/demos) folder
+
+
 #### USAGE
 
 ```
