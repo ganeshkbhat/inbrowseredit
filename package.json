@@ -1,7 +1,7 @@
 {
   "name": "editablebrowser",
   "version": "1.0.0",
-  "description": "",
+  "description": "make document editable in browser using inbrowseredit",
   "main": "index.js",
   "exports": {
     "require": "./index.js",
