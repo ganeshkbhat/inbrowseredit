@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ganeshkbhat/editablebrowser.git"
+    "url": "git+https://github.com/ganeshkbhat/inbrowseredit.git"
   },
   "bugs": {
-    "url": "https://github.com/ganeshkbhat/editablebrowser/issues"
+    "url": "https://github.com/ganeshkbhat/inbrowseredit/issues"
   },
-  "homepage": "https://github.com/ganeshkbhat/editablebrowser#readme",
+  "homepage": "https://github.com/ganeshkbhat/inbrowseredit#readme",
   "scripts": {
     "test": "mocha --reporter spec --recursive --timeout 60000",
     "uglify": "uglifyjs --compress --mangle reserved=['$','require','exports'] index.js -o index.min.js",

@@ -1,11 +1,11 @@
 /**
  * 
- * Package: inbrowseredit
+ * Package: editablebrowser
  * Author: Ganesh B
  * Description: 
- * Install: npm i inbrowseredit --save
+ * Install: npm i editablebrowser --save
  * Github: https://github.com/ganeshkbhat/inbrowseredit
- * npmjs Link: https://www.npmjs.com/package/inbrowseredit
+ * npmjs Link: https://www.npmjs.com/package/editablebrowser
  * File: index.js
  * File Description: 
  * 
